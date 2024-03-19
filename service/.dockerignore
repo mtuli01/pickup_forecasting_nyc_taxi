@@ -1,0 +1,14 @@
+# python cache files
+**/*.pyc
+**/__pycache__/
+
+# python unittest files
+**/tests/
+
+# pickle files
+**/*.pkl
+**/*.pth
+
+# log files
+**/*.log
+
